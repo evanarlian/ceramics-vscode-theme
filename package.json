@@ -1,0 +1,21 @@
+{
+  "name": "ceramics",
+  "displayName": "Ceramics",
+  "description": "Ceramics color theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ceramics",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Ceramics-color-theme.json"
+      }
+    ]
+  }
+}
