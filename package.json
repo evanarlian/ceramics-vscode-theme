@@ -3,12 +3,17 @@
   "displayName": "Ceramics",
   "description": "Ceramics color theme",
   "version": "0.0.1",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.71.0"
   },
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/evanarlian/ceramics-vscode-theme.git"
+  },
   "contributes": {
     "themes": [
       {
