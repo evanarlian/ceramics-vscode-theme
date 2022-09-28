@@ -24,9 +24,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Ceramics",
+        "label": "Ceramics dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/Ceramics-color-theme.json"
+        "path": "./themes/ceramics-dark-color-theme.json"
       }
     ]
   }

@@ -4,11 +4,28 @@
 	"colors": {
 		"editor.selectionBackground": "#1353607f", // 50% opacity
 		"editor.lineHighlightBackground": "#13536039", // 25% opacity
-		"editorCodeLens.foreground": "#2e909f", // same as libs
-		"statusBar.background": "#136879",
+		"statusBarItem.remoteBackground": "#f1e6c0", // same as var
+		"statusBarItem.remoteForeground": "#1E1E1E", // same as editor bg
 		"statusBar.noFolderBackground": "#7c356e",
-		"statusBarItem.remoteBackground": "#f1e6c0",
-		"statusBarItem.remoteForeground": "#111111",
+		"statusBar.debuggingBackground": "#d79232",
+		
+		"focusBorder": "#24787e", // main green accent
+		"progressBar.background": "#24787e",
+		"selection.background": "#24787e",
+		"activityBarBadge.background": "#24787e",
+		"inputOption.activeBackground": "#24787e",
+		
+		"list.activeSelectionBackground": "#10474a", // darker green accent
+		"statusBar.background": "#10474a",
+		"menu.selectionBackground": "#10474a",
+		"button.background": "#10474a",
+		
+		"list.highlightForeground": "#46adad", // lighter green accent
+		"editorCodeLens.foreground": "#46adad",
+		"textLink.foreground": "#46adad",
+		"textLink.activeForeground": "#46adad",
+		"pickerGroup.foreground": "#46adad",
+		"notificationsInfoIcon.foreground": "#46adad"
 	},
 	"tokenColors": [
 		{
@@ -69,7 +86,7 @@
 				"comment",
 			],
 			"settings": {
-				"foreground": "#676b68",
+				"foreground": "#717171",
 				"fontStyle": "italic",
 			}
 		},
@@ -81,7 +98,7 @@
 				"storage.type.format",
 			],
 			"settings": {
-				"foreground": "#d47187",
+				"foreground": "#d68899",
 			}
 		},
 		{
